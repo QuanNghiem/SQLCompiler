@@ -1,0 +1,13 @@
+D:\Code\CSS 475\SQLGrading\bin\Release\SQLGrading.exe.config
+D:\Code\CSS 475\SQLGrading\bin\Release\SQLGrading.exe.manifest
+D:\Code\CSS 475\SQLGrading\bin\Release\SQLGrading.application
+D:\Code\CSS 475\SQLGrading\bin\Release\SQLGrading.exe
+D:\Code\CSS 475\SQLGrading\bin\Release\SQLGrading.pdb
+D:\Code\CSS 475\SQLGrading\obj\Release\SQLGrading.Application.resources
+D:\Code\CSS 475\SQLGrading\obj\Release\SQLGrading.Properties.Resources.resources
+D:\Code\CSS 475\SQLGrading\obj\Release\SQLGrading.csproj.GenerateResource.cache
+D:\Code\CSS 475\SQLGrading\obj\Release\SQLGrading.exe.manifest
+D:\Code\CSS 475\SQLGrading\obj\Release\SQLGrading.application
+D:\Code\CSS 475\SQLGrading\obj\Release\SQLGrading.exe
+D:\Code\CSS 475\SQLGrading\obj\Release\SQLGrading.pdb
+D:\Code\CSS 475\SQLGrading\obj\Release\SQLGrading.csprojAssemblyReference.cache
