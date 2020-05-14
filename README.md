@@ -1,5 +1,5 @@
 # SQLCompiler
-Automatic Compiler for SQLite using text files. 
+Automatic Compiler for SQLite using text files. Made for University of Washington Bothell CSS 475 Database System course.
 
 ## How to use
 - Give the program the path to the sqlite3.exe by clicking the button.
